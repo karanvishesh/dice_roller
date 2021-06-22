@@ -1,4 +1,6 @@
 # dice_roller
+![dice](https://user-images.githubusercontent.com/66847518/122937409-96e05380-d38f-11eb-876e-21c156bc5f07.jpg)
+![dice1](https://user-images.githubusercontent.com/66847518/122937414-98aa1700-d38f-11eb-8672-67bc49c73ae0.jpg)
 
 A new Flutter project.
 
